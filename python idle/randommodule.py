@@ -2,6 +2,7 @@
 
 import random
 
+print(dir(random))
 # Generate a random floating-point number between 0.0 and 1.0
 print("Random float between 0.0 and 1.0:", random.random())
 
