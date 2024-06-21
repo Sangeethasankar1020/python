@@ -1,0 +1,2 @@
+def america():
+    print("america")
